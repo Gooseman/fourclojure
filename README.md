@@ -4,7 +4,7 @@ My solutions to the 4Clojure problems.
 
 ## Installation
 
-Download from http://example.com/FIXME.
+Download from http://www.github.com/Gooseman/fourclojure.git
 
 ## Usage
 
